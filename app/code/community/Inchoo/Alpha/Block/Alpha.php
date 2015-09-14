@@ -17,6 +17,6 @@ class Inchoo_Alpha_Block_Alpha extends Mage_Core_Block_Template
         echo "testingg";
     }
 	public function function3(){
-        echo "testingg6";
+        echo "testingg7";
     }
 }
