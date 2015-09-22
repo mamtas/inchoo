@@ -3,7 +3,7 @@
 <config>
     <modules>
         <Inchoo_Alpha>
-            <active>true</active>
+            <active>false</active>
             <codePool>communityfgtyh</codePool>
         </Inchoo_Alpha>
     </modules>
